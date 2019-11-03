@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\teodo\OneDrive\Pulpit\C++ Projects\PROJECT 1\SDLAPP1\SDLAPP1\main.cpp(16,12): warning C4244:  "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\teodo\OneDrive\Pulpit\C++ Projects\PROJECT 1\SDLAPP1\SDLAPP1\main.cpp(26,20): warning C4244:  "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\teodo\OneDrive\Pulpit\C++ Projects\PROJECT 1\SDLAPP1\SDLAPP1\main.cpp(27,20): warning C4244:  "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\teodo\OneDrive\Pulpit\C++ Projects\PROJECT 1\SDLAPP1\SDLAPP1\main.cpp(29,19): warning C4244:  "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\teodo\OneDrive\Pulpit\C++ Projects\PROJECT 1\SDLAPP1\SDLAPP1\main.cpp(30,19): warning C4244:  "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\teodo\OneDrive\Pulpit\C++ Projects\PROJECT 1\SDLAPP1\SDLAPP1\main.cpp(49,23): warning C4244:  "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\teodo\OneDrive\Pulpit\C++ Projects\PROJECT 1\SDLAPP1\SDLAPP1\main.cpp(50,23): warning C4244:  "=": konwersja z "int" do "float", możliwa utrata danych
+  SDLAPP1.vcxproj -> C:\Users\teodo\OneDrive\Pulpit\C++ Projects\PROJECT 1\SDLAPP1\x64\Debug\SDLAPP1.exe
