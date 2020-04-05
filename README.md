@@ -7,6 +7,4 @@
   <li>SDL2</li>
 </ul>
 <hr>
-<img alt="Game" src="https://github.com/teo0098/Bouncing-the-ball/blob/master/image.jpg">
-<hr>
-<img alt="Game" src="https://github.com/teo0098/Bouncing-the-ball/blob/master/image2.jpg">
+<img alt="Game" src="https://github.com/teo0098/Bouncing-the-ball/blob/master/Ball.gif">
